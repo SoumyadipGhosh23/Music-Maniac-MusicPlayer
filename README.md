@@ -1,5 +1,5 @@
 # Music Maniac
-##### A music player using HTML,CSS,JAVASCRIPT,BOOTSTRAP
+##### A music player using HTML, CSS, JAVASCRIPT, BOOTSTRAP
 
 ## Features
 1. All basic features of music player
